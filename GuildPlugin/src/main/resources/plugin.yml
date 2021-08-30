@@ -1,0 +1,6 @@
+name: GuildPlugin
+version: ${project.version}
+main: pl.pieszku.guild.Main
+api-version: 1.16
+authors: [ Pieszku ]
+depends: [QuCode-API]
